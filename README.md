@@ -310,3 +310,7 @@ pontos Positivos e Benefícios: Recursos avançados de planejamento e programaç
 Diferenciais: Integração total com outras ferramentas Microsoft, ideal para ambientes corporativos.
 ferramentas de gestão de projetos: Microsoft Project
 
+https://trello.com/b/k7e1z6IM/engenharia-de-software
+![Captura de tela 2025-03-18 214912](https://github.com/user-attachments/assets/e8a339ad-9533-40a0-83d4-6428784d125f)
+
+
